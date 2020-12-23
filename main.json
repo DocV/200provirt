@@ -41,7 +41,7 @@
         {
          "columns":3,
          "firstgid":1,
-         "image":"..\/reference_tilesets\/PIPOYA FREE RPG Character Sprites NEKONIN\/pipo-nekonin018.png",
+         "image":"data/pipo-nekonin018.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -53,63 +53,63 @@
         }, 
         {
          "firstgid":13,
-         "source":"160prelobbytesttiles.tsx"
+         "source":"data/160prelobbytesttiles.tsx"
         }, 
         {
          "firstgid":38,
-         "source":"testchar_withwater.tsx"
+         "source":"data/testchar_withwater.tsx"
         }, 
         {
          "firstgid":54,
-         "source":"testvehicles_edit_withwindows.tsx"
+         "source":"data/testvehicles_edit_withwindows.tsx"
         }, 
         {
          "firstgid":79,
-         "source":"testvehicles_edit_benzo.tsx"
+         "source":"data/testvehicles_edit_benzo.tsx"
         }, 
         {
          "firstgid":104,
-         "source":"entrancehalllefttest.tsx"
+         "source":"data/entrancehalllefttest.tsx"
         }, 
         {
          "firstgid":129,
-         "source":"entrancehallmittetest.tsx"
+         "source":"data/entrancehallmittetest.tsx"
         }, 
         {
          "firstgid":154,
-         "source":"extremedirtyrocket.tsx"
+         "source":"data/extremedirtyrocket.tsx"
         }, 
         {
          "firstgid":179,
-         "source":"entrancehalllrighttest.tsx"
+         "source":"data/entrancehalllrighttest.tsx"
         }, 
         {
          "firstgid":204,
-         "source":"hallstands_and_randomobj.tsx"
+         "source":"data/hallstands_and_randomobj.tsx"
         }, 
         {
          "firstgid":229,
-         "source":"spaceshiptransfer_interior.tsx"
+         "source":"data/spaceshiptransfer_interior.tsx"
         }, 
         {
          "firstgid":269,
-         "source":"badlydrawnstartsmokeLEFT.tsx"
+         "source":"data/badlydrawnstartsmokeLEFT.tsx"
         }, 
         {
          "firstgid":294,
-         "source":"badlrightkra.tsx"
+         "source":"data/badlrightkra.tsx"
         }, 
         {
          "firstgid":319,
-         "source":"roofleftside.tsx"
+         "source":"data/roofleftside.tsx"
         }, 
         {
          "firstgid":344,
-         "source":"roofrightside.tsx"
+         "source":"data/roofrightside.tsx"
         }, 
         {
          "firstgid":369,
-         "source":"spacebackg.tsx"
+         "source":"data/spacebackg.tsx"
         }],
  "tilewidth":32,
  "type":"map",
