@@ -41,7 +41,7 @@
         {
          "columns":3,
          "firstgid":1,
-         "image":"data/pipo-nekonin018.png",
+         "image":"data/nekonin/pipo-nekonin018.png",
          "imageheight":128,
          "imagewidth":96,
          "margin":0,
@@ -53,63 +53,63 @@
         }, 
         {
          "firstgid":13,
-         "source":"data/160prelobbytesttiles.tsx"
+         "source":"data/160prelobbytesttiles.png"
         }, 
         {
          "firstgid":38,
-         "source":"data/testchar_withwater.tsx"
+         "source":"data/testchar_withwater.png"
         }, 
         {
          "firstgid":54,
-         "source":"data/testvehicles_edit_withwindows.tsx"
+         "source":"data/testvehicles_edit_withwindows.png"
         }, 
         {
          "firstgid":79,
-         "source":"data/testvehicles_edit_benzo.tsx"
+         "source":"data/testvehicles_edit_benzo.png"
         }, 
         {
          "firstgid":104,
-         "source":"data/entrancehalllefttest.tsx"
+         "source":"data/entrancehalllefttest.png"
         }, 
         {
          "firstgid":129,
-         "source":"data/entrancehallmittetest.tsx"
+         "source":"data/entrancehallmittetest.png"
         }, 
         {
          "firstgid":154,
-         "source":"data/extremedirtyrocket.tsx"
+         "source":"data/extremedirtyrocket.png"
         }, 
         {
          "firstgid":179,
-         "source":"data/entrancehalllrighttest.tsx"
+         "source":"data/entrancehalllrighttest.png"
         }, 
         {
          "firstgid":204,
-         "source":"data/hallstands_and_randomobj.tsx"
+         "source":"data/hallstands_and_randomobj.png"
         }, 
         {
          "firstgid":229,
-         "source":"data/spaceshiptransfer_interior.tsx"
+         "source":"data/spaceshiptransfer_interior.png"
         }, 
         {
          "firstgid":269,
-         "source":"data/badlydrawnstartsmokeLEFT.tsx"
+         "source":"data/badlydrawnstartsmokeLEFT.png"
         }, 
         {
          "firstgid":294,
-         "source":"data/badlrightkra.tsx"
+         "source":"data/badlrightkra.png"
         }, 
         {
          "firstgid":319,
-         "source":"data/roofleftside.tsx"
+         "source":"data/roofleftside.png"
         }, 
         {
          "firstgid":344,
-         "source":"data/roofrightside.tsx"
+         "source":"data/roofrightside.png"
         }, 
         {
          "firstgid":369,
-         "source":"data/spacebackg.tsx"
+         "source":"data/spacebackg.png"
         }],
  "tilewidth":32,
  "type":"map",
