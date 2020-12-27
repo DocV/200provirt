@@ -1,0 +1,270 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/rev/Media Productions/remotecongress/mapfolder/main.json",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/00_prelobbymap_test_.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1019.5,
+                "y": 2251.5
+            }
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/00_prelobbymap_test_.tmx#ref_characters": {
+            "scaleInDock": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/00_prelobbymap_test_withanimphaseconcept.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1004.5,
+                "y": 1121.5
+            }
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/00_prelobbymap_test_withanimphaseconcept.tmx#ref_characters": {
+            "scaleInDock": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/160prelobbytesttiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/badlrightkra.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/badlydrawnstartsmokeLEFT.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehalllefttest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehalllrighttest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehallmittetest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/extremedirtyrocket.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/hallstands_and_randomobj.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/main.json": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 637.5,
+                "y": 2706.5
+            }
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/main.json#160prelobbytesttiles": {
+            "scaleInDock": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/main.json#pipo-nekonin017": {
+            "scaleInDock": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/main.json#ref_characters": {
+            "scaleInDock": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/main.json#testchar_withwater": {
+            "scaleInDock": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/main.json#testchar_withwater2": {
+            "dynamicWrapping": true
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/prelobbybuild.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/roofleftside.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/roofrightside.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/spacebackg.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/spaceshiptransfer_interior.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/testchar_withwater.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/testvehicles_edit_benzo.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/mapfolder/testvehicles_edit_withwindows.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "/Users/rev/Media Productions/remotecongress/reference_tilesets/PIPOYA FREE RPG Character Sprites NEKONIN/ref_characters.tsx": {
+            "scaleInDock": 1
+        },
+        "00_prelobbytogit.tmx": {
+            "scale": 0.2659505208333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 648.6168910648717,
+                "y": 2457.2239902080782
+            }
+        },
+        "00_prelobbytogit.tmx#ref_characters": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "160prelobbytesttiles.tsx": {
+            "scaleInDock": 1
+        },
+        "badlrightkra.tsx": {
+            "scaleInDock": 1
+        },
+        "badlydrawnstartsmokeLEFT.tsx": {
+            "scaleInDock": 1
+        },
+        "data/160prelobbytesttiles.tsx": {
+            "scaleInDock": 1
+        },
+        "data/badlrightkra.tsx": {
+            "scaleInDock": 1
+        },
+        "data/badlydrawnstartsmokeLEFT.tsx": {
+            "scaleInDock": 1
+        },
+        "data/entrancehalllefttest.tsx": {
+            "scaleInDock": 1
+        },
+        "data/entrancehalllrighttest.tsx": {
+            "scaleInDock": 1
+        },
+        "data/entrancehallmittetest.tsx": {
+            "scaleInDock": 1
+        },
+        "data/extremedirtyrocket.tsx": {
+            "scaleInDock": 1
+        },
+        "data/hallstands_and_randomobj.tsx": {
+            "scaleInDock": 1
+        },
+        "data/roofleftside.tsx": {
+            "scaleInDock": 1
+        },
+        "data/roofrightside.tsx": {
+            "scaleInDock": 1
+        },
+        "data/spacebackg.tsx": {
+            "scaleInDock": 1
+        },
+        "data/spaceshiptransfer_interior.tsx": {
+            "scaleInDock": 1
+        },
+        "data/testchar_withwater.tsx": {
+            "scaleInDock": 1
+        },
+        "data/testvehicles_edit_benzo.tsx": {
+            "scaleInDock": 1
+        },
+        "data/testvehicles_edit_withwindows.tsx": {
+            "scaleInDock": 1
+        },
+        "entrancehalllefttest.tsx": {
+            "scaleInDock": 1
+        },
+        "entrancehalllrighttest.tsx": {
+            "scaleInDock": 1
+        },
+        "entrancehallmittetest.tsx": {
+            "scaleInDock": 1
+        },
+        "extremedirtyrocket.tsx": {
+            "scaleInDock": 1
+        },
+        "hallstands_and_randomobj.tsx": {
+            "scaleInDock": 1
+        },
+        "roofleftside.tsx": {
+            "scaleInDock": 1
+        },
+        "roofrightside.tsx": {
+            "scaleInDock": 1
+        },
+        "spacebackg.tsx": {
+            "scaleInDock": 1
+        },
+        "spaceshiptransfer_interior.tsx": {
+            "scaleInDock": 1
+        },
+        "testchar_withwater.tsx": {
+            "scaleInDock": 1
+        },
+        "testvehicles_edit_benzo.tsx": {
+            "scaleInDock": 1
+        },
+        "testvehicles_edit_withwindows.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 96,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 42,
+    "openFiles": [
+        "/Users/rev/Media Productions/remotecongress/mapfolder/main.json",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/160prelobbytesttiles.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/testchar_withwater.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/testvehicles_edit_withwindows.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/testvehicles_edit_benzo.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehalllefttest.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehalllrighttest.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehallmittetest.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/extremedirtyrocket.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/spaceshiptransfer_interior.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/badlydrawnstartsmokeLEFT.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/badlrightkra.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/roofleftside.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/roofrightside.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/spacebackg.tsx"
+    ],
+    "project": "project_to_git_try2.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "00_prelobbytogit.tmx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/spacebackg.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/roofrightside.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/roofleftside.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/badlrightkra.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/badlydrawnstartsmokeLEFT.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/spaceshiptransfer_interior.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/extremedirtyrocket.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehallmittetest.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehalllrighttest.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/entrancehalllefttest.tsx",
+        "/Users/rev/Media Productions/remotecongress/mapfolder/testvehicles_edit_benzo.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
