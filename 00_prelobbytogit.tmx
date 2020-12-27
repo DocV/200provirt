@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="42" height="96" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
  <tileset firstgid="1" name="ref_characters" tilewidth="32" tileheight="32" tilecount="12" columns="3">
-  <image source="../reference_tilesets/PIPOYA FREE RPG Character Sprites NEKONIN/pipo-nekonin018.png" width="96" height="128"/>
+  <image source="./data/nekonin/pipo-nekonin018.png" width="96" height="128"/>
  </tileset>
- <tileset firstgid="13" source="160prelobbytesttiles.tsx"/>
- <tileset firstgid="38" source="testchar_withwater.tsx"/>
- <tileset firstgid="54" source="testvehicles_edit_withwindows.tsx"/>
- <tileset firstgid="79" source="testvehicles_edit_benzo.tsx"/>
- <tileset firstgid="104" source="entrancehalllefttest.tsx"/>
- <tileset firstgid="129" source="entrancehallmittetest.tsx"/>
- <tileset firstgid="154" source="extremedirtyrocket.tsx"/>
- <tileset firstgid="179" source="entrancehalllrighttest.tsx"/>
- <tileset firstgid="204" source="hallstands_and_randomobj.tsx"/>
- <tileset firstgid="229" source="spaceshiptransfer_interior.tsx"/>
- <tileset firstgid="269" source="badlydrawnstartsmokeLEFT.tsx"/>
- <tileset firstgid="294" source="badlrightkra.tsx"/>
- <tileset firstgid="319" source="roofleftside.tsx"/>
- <tileset firstgid="344" source="roofrightside.tsx"/>
- <tileset firstgid="369" source="spacebackg.tsx"/>
+ <tileset firstgid="13" source="./data/160prelobbytesttiles.tsx"/>
+ <tileset firstgid="38" source="./data/testchar_withwater.tsx"/>
+ <tileset firstgid="54" source="./data/testvehicles_edit_withwindows.tsx"/>
+ <tileset firstgid="79" source="./data/testvehicles_edit_benzo.tsx"/>
+ <tileset firstgid="104" source="./data/entrancehalllefttest.tsx"/>
+ <tileset firstgid="129" source="./data/entrancehallmittetest.tsx"/>
+ <tileset firstgid="154" source="./data/extremedirtyrocket.tsx"/>
+ <tileset firstgid="179" source="./data/entrancehalllrighttest.tsx"/>
+ <tileset firstgid="204" source="./data/hallstands_and_randomobj.tsx"/>
+ <tileset firstgid="229" source="./data/spaceshiptransfer_interior.tsx"/>
+ <tileset firstgid="269" source="./data/badlydrawnstartsmokeLEFT.tsx"/>
+ <tileset firstgid="294" source="./data/badlrightkra.tsx"/>
+ <tileset firstgid="319" source="./data/roofleftside.tsx"/>
+ <tileset firstgid="344" source="./data/roofrightside.tsx"/>
+ <tileset firstgid="369" source="./data/spacebackg.tsx"/>
  <layer id="1" name="start" width="42" height="96">
   <properties>
    <property name="startLayer" type="bool" value="true"/>
