@@ -140,6 +140,12 @@
          "id":10,
          "name":"objects_on_objects",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"zme8twoSttY58vhFKCV4PNRu7UdNd4OVSeexqOk70UwJaRn1Xq"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
